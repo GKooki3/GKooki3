@@ -15,7 +15,7 @@
   </div>
   
   <h2> Sobre mim: </h2>
-  🔮 Tenho 21 anos <br>
+  🔮 Tenho 23 anos <br>
   🕹️ Meus Hobbies são Jogar RPG de mesa e assistir animes! <br>
   📚 Estou no 3° período de Ciência da Computação <br> <br>
   
